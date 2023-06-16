@@ -1,0 +1,6 @@
+:root{
+    font-size: 16px;
+    --primary-color: #001A49;
+    --primary-bg: linear-gradient(44.11deg, #CD10FF 15.75%, #9F06FF 84.63%);
+    --primary-bg-hover: linear-gradient(44.11deg, #a70ed1 15.75%, #7209b3 84.63%);
+}
